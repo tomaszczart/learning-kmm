@@ -1,0 +1,2 @@
+com/tomaszczart/kmm/androidApp/BuildConfig.java
+ com.tomaszczart.kmm.androidApp.BuildConfig
